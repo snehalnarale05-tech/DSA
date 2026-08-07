@@ -16,6 +16,7 @@ void swapAlternate(int arr[], int size)
     {
         if (i + 1 < size)
         {
+
             swap(arr[i], arr[i + 1]);
         }
     }
